@@ -1,0 +1,501 @@
+id,title,filtered_words,label
+R129,New Report on Election,"new, report, election, sign, entire, paper, test",REAL
+R227,New Report on Climate Change,"new, report, climate, change, believe, charge, free, bad, maybe",REAL
+F231,Aliens Confirmed by Sources,"aliens, confirmed, sources, begin, dog, like, current, space",FAKE
+R066,New Report on Policy,"new, report, policy, ready, claim, ahead, beat, space, military",REAL
+F095,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, phone, friend, whole, involve, spring",FAKE
+R174,New Report on Policy,"new, report, policy, simply, action, relationship, white, heavy, stand",REAL
+R201,New Report on Public Health,"new, report, public, health, environment, agent, song, lead, economic",REAL
+R072,New Report on Education,"new, report, education, special, author, price, third, employee, ever.",REAL
+R064,New Report on Research,"new, report, research, movie, pass, teach., small, station, contain",REAL
+F037,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, sister, anyone, necessary, center, reason",FAKE
+R170,New Report on Technology Breakthrough,"new, report, technology, breakthrough, quickly",REAL
+F110,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, treatment, general, present, star., feeling",FAKE
+F048,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, control, event, significant, certainly",FAKE
+F082,Hoax Confirmed by Sources,"hoax, confirmed, sources, area, class, conference, party., across",FAKE
+F187,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, reason, answer, everything, thus., every",FAKE
+F027,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, certain, say, agency.",FAKE
+F202,Hoax Confirmed by Sources,"hoax, confirmed, sources, later, deep, increase, bill.",FAKE
+F197,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, information, close, black., accept",FAKE
+R128,New Report on Climate Change,"new, report, climate, change, idea, gas, fish, form, movie.",REAL
+F157,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, rise, business, test, tough",FAKE
+F117,Hoax Confirmed by Sources,"hoax, confirmed, sources, air, present, memory, indicate, already",FAKE
+F173,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, future, religious, forget, company, yet",FAKE
+F024,Aliens Confirmed by Sources,"aliens, confirmed, sources, behind, six, consider, main, manage",FAKE
+F096,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, else, political, fire, soldier, blood",FAKE
+R247,New Report on Public Health,"new, report, public, health, necessary, become, see, three, major",REAL
+F226,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, remember, always, purpose, law.",FAKE
+F100,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, five, start, change, ready, century.",FAKE
+F246,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, accept, black, resource, position., deal",FAKE
+F183,Aliens Confirmed by Sources,"aliens, confirmed, sources, idea, oil, exactly., heart, across",FAKE
+R063,New Report on Policy,"new, report, policy, land, interesting, large, general, image, sound",REAL
+R005,New Report on Election,"new, report, election, military, couple, commercial, later",REAL
+R084,New Report on Election,"new, report, election, media, act, several, appear, win, environmental",REAL
+R124,New Report on Education,"new, report, education, tax, part, hard, ten., experts, discuss",REAL
+R118,New Report on Research,"new, report, research, degree, individual, decide, whole, guy, institution",REAL
+F001,Aliens Confirmed by Sources,"aliens, confirmed, sources, audience, candidate, high, rise, reality",FAKE
+F007,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, economy, capital, nice, fire, team",FAKE
+F046,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, current, chair, discover, his., girl",FAKE
+R103,New Report on Research,"new, report, research, peace, sing, remain., human, ability",REAL
+R037,New Report on Budget Report,"new, report, budget, report, position, mrs, pattern, join",REAL
+F193,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, half, floor., edge, coach",FAKE
+R166,New Report on Election,"new, report, election, fill, range, special., growth, similar",REAL
+F017,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, chance, value, direction",FAKE
+R008,New Report on Economic Growth,"new, report, economic, growth, actually, care, coach, you., according",REAL
+F071,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, floor, team, occur, example",FAKE
+F028,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, war, card, reveal, small, spend.",FAKE
+F227,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, oil, traditional, know, executive",FAKE
+R200,New Report on Public Health,"new, report, public, health, kitchen, standard, billion, those., meeting",REAL
+R225,New Report on Climate Change,"new, report, climate, change, avoid, list, piece, inside., season",REAL
+R062,New Report on Budget Report,"new, report, budget, report, name, past, fish, million.",REAL
+F033,Hoax Confirmed by Sources,"hoax, confirmed, sources, difference, show, economy, work, professional",FAKE
+F012,Hoax Confirmed by Sources,"hoax, confirmed, sources, catch, shoulder, trade, tax.",FAKE
+R121,New Report on Research,"new, report, research, receive, whose, try, child, any.",REAL
+F210,Aliens Confirmed by Sources,"aliens, confirmed, sources, avoid, chance, wear, travel",FAKE
+F151,Hoax Confirmed by Sources,"hoax, confirmed, sources, form, congress, day, better, one, religious.",FAKE
+F099,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, land, baby, growth, give, whose",FAKE
+R090,New Report on Technology Breakthrough,"new, report, technology, breakthrough, meet, assume, require, move., major",REAL
+R125,New Report on Budget Report,"new, report, budget, report, prove, change, attack, no., site",REAL
+R091,New Report on Climate Change,"new, report, climate, change, measure, thousand, information., kid",REAL
+R157,New Report on Climate Change,"new, report, climate, change, leave, local, letter, hard",REAL
+F098,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, one, sort, small., keep",FAKE
+F164,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, standard, person, top, idea., enjoy",FAKE
+R050,New Report on Economic Growth,"new, report, economic, growth, rich, office, sister, site",REAL
+R249,New Report on Climate Change,"new, report, climate, change, region, laugh, fight, on., onto",REAL
+R093,New Report on Election,"new, report, election, open, story, member., population, box, laugh",REAL
+R131,New Report on Education,"new, report, education, soon, computer, teacher, wrong., matter",REAL
+F107,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, charge, rule, place, information",FAKE
+F153,Hoax Confirmed by Sources,"hoax, confirmed, sources, piece, beautiful, lay, special, make., sing",FAKE
+F091,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, two, arrive., expect, wonder",FAKE
+R246,New Report on Economic Growth,"new, report, economic, growth, office, particularly, find, painting.",REAL
+F004,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, offer, pick, form, task, office",FAKE
+F220,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, social, degree, pay, read",FAKE
+F121,Hoax Confirmed by Sources,"hoax, confirmed, sources, recognize, rich, drop, day, play, floor.",FAKE
+F245,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, political, area, never, finish, guy.",FAKE
+R035,New Report on Climate Change,"new, report, climate, change, especially, take, buy, book.",REAL
+R024,New Report on Education,"new, report, education, whole, source, case., manage, thing.",REAL
+F079,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, old, list, environment, stock, try",FAKE
+R094,New Report on Policy,"new, report, policy, house, others, lawyer, keep, say., safe",REAL
+R040,New Report on Policy,"new, report, policy, knowledge, catch, fly, everyone, produce.",REAL
+F170,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, whether, call, sense, business, wife",FAKE
+F130,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, night, deal, thing, yeah., measure",FAKE
+R085,New Report on Economic Growth,"new, report, economic, growth, impact, community, energy, old, recently",REAL
+R054,New Report on Budget Report,"new, report, budget, report, join, collection, including, establish., office",REAL
+R047,New Report on Technology Breakthrough,"new, report, technology, breakthrough, establish, rich, despite, success",REAL
+R199,New Report on Economic Growth,"new, report, economic, growth, example, step, space, kid, bed.",REAL
+F062,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, report, however, song, across, glass",FAKE
+R244,New Report on Technology Breakthrough,"new, report, technology, breakthrough, add, consumer, western, try",REAL
+R107,New Report on Election,"new, report, election, somebody, hotel, meet, however, bar",REAL
+F148,Aliens Confirmed by Sources,"aliens, confirmed, sources, southern, health, turn, least, prove, board",FAKE
+F023,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, hot, expert, simply, however.",FAKE
+R075,New Report on Budget Report,"new, report, budget, report, couple, stay, international, visit., win",REAL
+R220,New Report on Public Health,"new, report, public, health, tough, crime, value, newspaper.",REAL
+R099,New Report on Economic Growth,"new, report, economic, growth, western, population, store, particularly, line.",REAL
+F066,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, turn, drug, network, his., push",FAKE
+F060,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, involve, wind, practice",FAKE
+F022,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, perhaps, site, off., talk, thought",FAKE
+F127,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, support, partner, unit, recently, ahead",FAKE
+R212,New Report on Education,"new, report, education, business, imagine, across, candidate, window.",REAL
+F119,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, suggest, performance, nation, similar",FAKE
+F103,Hoax Confirmed by Sources,"hoax, confirmed, sources, see, member., develop, full, trouble",FAKE
+F191,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, country, account, fish, cultural, trade.",FAKE
+F002,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, reason, read, box, car, outside",FAKE
+R155,New Report on Election,"new, report, election, spring, believe, call, guess, single, for.",REAL
+R006,New Report on Technology Breakthrough,"new, report, technology, breakthrough, resource, design, serve, everyone",REAL
+F086,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, nature, station, inside, city, speak",FAKE
+R168,New Report on Election,"new, report, election, cover, area, individual, it., pick",REAL
+R077,New Report on Public Health,"new, report, public, health, future, list, church, debate",REAL
+F209,Hoax Confirmed by Sources,"hoax, confirmed, sources, low, spring, modern., well, employee, argue",FAKE
+R236,New Report on Public Health,"new, report, public, health, head, town, administration, research, peace",REAL
+F186,Aliens Confirmed by Sources,"aliens, confirmed, sources, true, account, girl, company, likely., big",FAKE
+R243,New Report on Public Health,"new, report, public, health, apply, investment, leave, white",REAL
+F094,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, ability, kind, data, new, able.",FAKE
+R032,New Report on Economic Growth,"new, report, economic, growth, type, treat, hospital, respond, program",REAL
+R033,New Report on Education,"new, report, education, owner, pretty, movement",REAL
+R045,New Report on Technology Breakthrough,"new, report, technology, breakthrough, husband, return, glass., religious, design",REAL
+R116,New Report on Education,"new, report, education, long, enter, rather, feeling, although.",REAL
+F056,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, alone, dream, husband, quality, tough",FAKE
+R043,New Report on Policy,"new, report, policy, guy, development, key, magazine, hot.",REAL
+R145,New Report on Economic Growth,"new, report, economic, growth, two, officer, society, goal.",REAL
+F200,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, involve, wide, push., better",FAKE
+F034,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, provide, two, century, surface., people",FAKE
+F149,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, clear, opportunity, little, leader",FAKE
+F051,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, reduce, end, seat, focus., suffer",FAKE
+F089,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, collection, call, probably",FAKE
+F135,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, attention, agreement, daughter, page.",FAKE
+F088,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, coach, able, ahead, media",FAKE
+R010,New Report on Election,"new, report, election, spend., mean, song",REAL
+R211,New Report on Policy,"new, report, policy, president, finish, big, author, result.",REAL
+F204,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, southern, owner, race, show, attorney",FAKE
+F168,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, school, score, all., kitchen, food",FAKE
+R011,New Report on Public Health,"new, report, public, health, marriage, hour, property, list",REAL
+R232,New Report on Climate Change,"new, report, climate, change, cold, perform, alone, first., experts",REAL
+R042,New Report on Public Health,"new, report, public, health, want, answer, sometimes., heart, heavy",REAL
+F182,Hoax Confirmed by Sources,"hoax, confirmed, sources, condition, war, win, use, green",FAKE
+F036,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, make, evening, worry, popular.",FAKE
+F068,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, center, become, avoid, education, central",FAKE
+R015,New Report on Election,"new, report, election, throughout, choice, agreement, serious, space, member.",REAL
+R147,New Report on Climate Change,"new, report, climate, change, property, direction, significant, doctor",REAL
+F198,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, even, form, resource., fill, near",FAKE
+R081,New Report on Climate Change,"new, report, climate, change, away, soon, staff., mind, let",REAL
+F050,Aliens Confirmed by Sources,"aliens, confirmed, sources, leader, fish, notice, rise., next, example",FAKE
+F162,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, open, discussion, central, car., sometimes",FAKE
+R028,New Report on Technology Breakthrough,"new, report, technology, breakthrough, also, even, claim, ability.",REAL
+R195,New Report on Budget Report,"new, report, budget, report, behind, actually, according, trade, among.",REAL
+F116,Aliens Confirmed by Sources,"aliens, confirmed, sources, manager, nice, talk, must, artist, compare",FAKE
+R018,New Report on Research,"new, report, research, give, floor, number, large, avoid, man.",REAL
+F073,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, majority, kind, chair",FAKE
+F059,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, study, although, data, son, nature",FAKE
+R078,New Report on Budget Report,"new, report, budget, report, mission, business, future, measure, onto",REAL
+F216,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, note, fast, dog, fine.",FAKE
+F206,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, provide, spring, one., find, half",FAKE
+R036,New Report on Research,"new, report, research, key, group, better, already, forget, of.",REAL
+F104,Aliens Confirmed by Sources,"aliens, confirmed, sources, bring, tv, data, painting.",FAKE
+F000,Hoax Confirmed by Sources,"hoax, confirmed, sources, author, see, drop.",FAKE
+R136,New Report on Education,"new, report, education, institution, suggest, like, sense, protect, tell.",REAL
+F019,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, hotel, bag, note., likely",FAKE
+R012,New Report on Technology Breakthrough,"new, report, technology, breakthrough, long, oil, store, old, summer",REAL
+R052,New Report on Education,"new, report, education, agreement, notice, soldier, society., pressure, hit",REAL
+R123,New Report on Climate Change,"new, report, climate, change, firm, yes, town, compare., table",REAL
+F040,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, change, able, media, performance, network",FAKE
+R160,New Report on Climate Change,"new, report, climate, change, maintain, current, indicate, foreign, return.",REAL
+F067,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, push, lose, develop, something",FAKE
+R069,New Report on Research,"new, report, research, body, national, daughter, imagine",REAL
+F160,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, old, author, financial, receive, nearly",FAKE
+F053,Hoax Confirmed by Sources,"hoax, confirmed, sources, trouble, notice, future, perform, among., upon",FAKE
+R074,New Report on Education,"new, report, education, magazine, pay, hospital., local, decade",REAL
+R007,New Report on Election,"new, report, election, become, however, simply, study, fall",REAL
+R119,New Report on Climate Change,"new, report, climate, change, appear, choice, occur, color",REAL
+R087,New Report on Budget Report,"new, report, budget, report, relate, decade, hand",REAL
+F145,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, middle, without, build, great, cut",FAKE
+R065,New Report on Budget Report,"new, report, budget, report, safe, local, second, admit, detail.",REAL
+R208,New Report on Budget Report,"new, report, budget, report, heart, ball, soldier, live, civil",REAL
+R048,New Report on Budget Report,"new, report, budget, report, set, central, return, hundred, behind",REAL
+F076,Aliens Confirmed by Sources,"aliens, confirmed, sources, price, news, wish, writer, debate, industry",FAKE
+R019,New Report on Policy,"new, report, policy, cut, president, table, air., rich, us",REAL
+F115,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, brother, debate, make, position, value",FAKE
+R031,New Report on Education,"new, report, education, trouble, example, action, staff., rest, however",REAL
+R190,New Report on Research,"new, report, research, language, blue, health, sure, service., lot",REAL
+F057,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, pass, plan, rate, place",FAKE
+F158,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, hard, key, talk, evening, wife",FAKE
+F234,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, direction, cup, power., together",FAKE
+F155,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, second, design, environmental, appear, ready",FAKE
+F106,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, actually, success, listen, job, discussion",FAKE
+R051,New Report on Policy,"new, report, policy, ok, stage, machine, call, instead, customer.",REAL
+R203,New Report on Education,"new, report, education, look, ahead, evidence, likely., history, difference",REAL
+F063,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, establish, effect, radio, office, seat",FAKE
+R080,New Report on Policy,"new, report, policy, beat, nation, sometimes, police., good, kitchen",REAL
+R226,New Report on Public Health,"new, report, public, health, effect, movie, purpose., choose",REAL
+F144,Hoax Confirmed by Sources,"hoax, confirmed, sources, fact, power, scientist, suffer, future., bag",FAKE
+F241,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, organization, affect, state, husband",FAKE
+R150,New Report on Election,"new, report, election, bring, second, education., space, role",REAL
+R153,New Report on Research,"new, report, research, attention, finish, future, approach",REAL
+F175,Hoax Confirmed by Sources,"hoax, confirmed, sources, single, manage, require, pick, modern, west",FAKE
+F161,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, soon, see, recent, prevent, decade.",FAKE
+F147,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, culture, character, lawyer, senior., drive",FAKE
+F018,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, bank, able, member, result, street",FAKE
+F211,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, allow, western, himself., exactly, even",FAKE
+R117,New Report on Research,"new, report, research, local, manager, music, now., find, finish",REAL
+F016,Aliens Confirmed by Sources,"aliens, confirmed, sources, drop, plan, say, measure, for.",FAKE
+F029,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, later, news, exist, game, agree",FAKE
+F205,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, grow, participant, agreement, bar., phone",FAKE
+R112,New Report on Economic Growth,"new, report, economic, growth, physical, water, color, close, line",REAL
+F218,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, early, war, road, person, end",FAKE
+R187,New Report on Education,"new, report, education, single, assume, agree, need, forward., teacher",REAL
+F087,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, goal, arm, may, contain",FAKE
+R171,New Report on Education,"new, report, education, free, southern, different, skin, particularly",REAL
+R113,New Report on Technology Breakthrough,"new, report, technology, breakthrough, right, bank, order, message, policy",REAL
+R222,New Report on Public Health,"new, report, public, health, part, listen, pay., sense",REAL
+F233,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, bill, north, player, hot",FAKE
+R223,New Report on Climate Change,"new, report, climate, change, class, despite, suggest., ability",REAL
+F224,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, ever, democratic, experience, order, party",FAKE
+R181,New Report on Climate Change,"new, report, climate, change, evidence, similar, affect, board",REAL
+R056,New Report on Public Health,"new, report, public, health, ask, blood",REAL
+R110,New Report on Education,"new, report, education, option, already, under., individual",REAL
+R219,New Report on Education,"new, report, education, speak, think, success, produce, stock",REAL
+R224,New Report on Education,"new, report, education, well, thank, magazine., interview, billion",REAL
+F178,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, stay, wall, worry, possible, enough.",FAKE
+F074,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, arm, event, song, join., green",FAKE
+R034,New Report on Budget Report,"new, report, budget, report, black, throw, final, also",REAL
+R095,New Report on Policy,"new, report, policy, term, decision, heart, prove, probably, like",REAL
+F011,Aliens Confirmed by Sources,"aliens, confirmed, sources, idea, defense, do., hard, gun",FAKE
+R162,New Report on Policy,"new, report, policy, wind, day, eye, pull, rich.",REAL
+R218,New Report on Election,"new, report, election, data, kind, fund, indicate, store",REAL
+F136,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, authority, summer, nearly, history",FAKE
+R108,New Report on Economic Growth,"new, report, economic, growth, mother, stay, need, number., nation",REAL
+R186,New Report on Research,"new, report, research, mission, direction, specific, administration, college, tonight",REAL
+R248,New Report on Technology Breakthrough,"new, report, technology, breakthrough, dream, mean, city, lose, six",REAL
+F045,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, garden, late, price, issue, eye",FAKE
+F092,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, energy, power, nature, buy.",FAKE
+R100,New Report on Technology Breakthrough,"new, report, technology, breakthrough, focus, goal, away, senior, measure",REAL
+F075,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, character, campaign, chair, society.",FAKE
+R059,New Report on Technology Breakthrough,"new, report, technology, breakthrough, player, perform, light, sort",REAL
+F213,Hoax Confirmed by Sources,"hoax, confirmed, sources, wide, discuss, nothing, public., season",FAKE
+R233,New Report on Education,"new, report, education, around, word, clearly, player, network.",REAL
+F072,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, know, development, middle, wait",FAKE
+R184,New Report on Budget Report,"new, report, budget, report, exactly, rule, commercial, pass., rule",REAL
+F134,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, various, player, month., brother",FAKE
+R096,New Report on Research,"new, report, research, anyone, month, foot., open, first, career",REAL
+R020,New Report on Policy,"new, report, policy, eye, detail, provide, artist., try",REAL
+R067,New Report on Policy,"new, report, policy, son, environment, order, eat., guy, service",REAL
+R215,New Report on Education,"new, report, education, suddenly, television, character, away, director., surface",REAL
+R127,New Report on Policy,"new, report, policy, far, stay, process, compare, federal., probably",REAL
+R235,New Report on Technology Breakthrough,"new, report, technology, breakthrough, black, especially, management, story, less",REAL
+R163,New Report on Climate Change,"new, report, climate, change, offer, account, party, past., bed",REAL
+R002,New Report on Education,"new, report, education, find, hope, treat, fly",REAL
+R021,New Report on Education,"new, report, education, draw, nothing, see, general, east",REAL
+R013,New Report on Technology Breakthrough,"new, report, technology, breakthrough, party, light, support",REAL
+F195,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, bit, show, sing, beautiful",FAKE
+R101,New Report on Research,"new, report, research, stock, past, pressure, structure, blood, establish",REAL
+R055,New Report on Research,"new, report, research, political, baby, capital, add., effect, seven",REAL
+F190,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, size, attorney., fund, different",FAKE
+R004,New Report on Education,"new, report, education, benefit, difficult, police, month, add, blue",REAL
+F080,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, carry, month, beyond., shoulder",FAKE
+F049,Hoax Confirmed by Sources,"hoax, confirmed, sources, heavy, i.",FAKE
+F184,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, success, reason, everybody, certain, reason",FAKE
+F030,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, popular, exactly, finish, interview, dinner",FAKE
+R213,New Report on Budget Report,"new, report, budget, report, hold, computer, foreign., structure, exactly",REAL
+F128,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, several, speak, good, present, growth",FAKE
+R231,New Report on Policy,"new, report, policy, foreign, always, must, dream, might., institution",REAL
+R061,New Report on Technology Breakthrough,"new, report, technology, breakthrough, anything, physical, call., experts",REAL
+R137,New Report on Education,"new, report, education, organization, maintain, sound, value, car, pick",REAL
+R185,New Report on Technology Breakthrough,"new, report, technology, breakthrough, represent, religious, decide., black, see",REAL
+R204,New Report on Technology Breakthrough,"new, report, technology, breakthrough, get, prepare, report, town., score",REAL
+F217,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, chance, wait, civil, teach, participant",FAKE
+F176,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, measure, indicate, exactly, build, fire.",FAKE
+R245,New Report on Technology Breakthrough,"new, report, technology, breakthrough, network, young, sure., town, move",REAL
+R104,New Report on Election,"new, report, election, life, particular, democratic, quickly, begin",REAL
+F156,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, range, blue, positive, medical, course",FAKE
+R194,New Report on Election,"new, report, election, thing, politics, buy, include., represent",REAL
+R161,New Report on Technology Breakthrough,"new, report, technology, breakthrough, record, lay, say, medical",REAL
+F113,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, station, floor, benefit, member, draw.",FAKE
+F150,Hoax Confirmed by Sources,"hoax, confirmed, sources, build, interesting, set, take, huge, energy",FAKE
+F047,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, activity, professional, get, long., experience",FAKE
+F008,Hoax Confirmed by Sources,"hoax, confirmed, sources, commercial, current, least, news, consumer.",FAKE
+F229,Aliens Confirmed by Sources,"aliens, confirmed, sources, age, culture, although, out.",FAKE
+R001,New Report on Research,"new, report, research, key, light, five, move",REAL
+R241,New Report on Public Health,"new, report, public, health, use, guy, try., order, want",REAL
+R198,New Report on Climate Change,"new, report, climate, change, gas, move, entire, nice., bill",REAL
+R229,New Report on Research,"new, report, research, kid, race, strong, many, enjoy, cause",REAL
+R205,New Report on Public Health,"new, report, public, health, player, become, piece, impact., affect",REAL
+F123,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, difficult, future, project, cost.",FAKE
+F043,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, education, require, cause, sure, floor",FAKE
+F097,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, agent, recognize, floor, paper.",FAKE
+R014,New Report on Research,"new, report, research, vote, pm, able, member, cut.",REAL
+F005,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, left, fact, free, set, news.",FAKE
+R234,New Report on Research,"new, report, research, compare, religious, purpose, set, task, cup.",REAL
+F143,Aliens Confirmed by Sources,"aliens, confirmed, sources, become, understand, growth, role, city., consider",FAKE
+R073,New Report on Economic Growth,"new, report, economic, growth, market, represent, ready, bank., today",REAL
+R239,New Report on Education,"new, report, education, adult, admit, though, father, him., since",REAL
+F181,Aliens Confirmed by Sources,"aliens, confirmed, sources, ago, write, hope, information, quality, statement.",FAKE
+R138,New Report on Election,"new, report, election, father, protect, lot, condition, forward",REAL
+R172,New Report on Economic Growth,"new, report, economic, growth, animal, machine, senior, team, get",REAL
+R143,New Report on Policy,"new, report, policy, discussion, early, air, water, international",REAL
+F166,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, billion, matter, mouth, reduce",FAKE
+R003,New Report on Budget Report,"new, report, budget, report, matter, way, data, question, sure",REAL
+R167,New Report on Climate Change,"new, report, climate, change, type, finally, television, top, support.",REAL
+R183,New Report on Climate Change,"new, report, climate, change, page, floor, help, recent, sister",REAL
+R238,New Report on Technology Breakthrough,"new, report, technology, breakthrough, center, government, message, sport., different",REAL
+R041,New Report on Election,"new, report, election, discuss, poor, imagine, turn",REAL
+F237,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, product, tree, generation, surface, arrive.",FAKE
+R086,New Report on Research,"new, report, research, bit, resource, matter, himself., agent, according",REAL
+R240,New Report on Policy,"new, report, policy, probably, use, start, partner., behind",REAL
+R133,New Report on Public Health,"new, report, public, health, former, high, former, already.",REAL
+F044,Hoax Confirmed by Sources,"hoax, confirmed, sources, increase, much, imagine, line, onto, someone",FAKE
+F125,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, party, technology, offer, city, team",FAKE
+F165,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, either, southern, site., practice, reality",FAKE
+F137,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, power, entire, report, response, loss",FAKE
+R088,New Report on Research,"new, report, research, heavy, environmental, anything., face, south, although.",REAL
+R169,New Report on Technology Breakthrough,"new, report, technology, breakthrough, time, positive, develop, world., believe",REAL
+R193,New Report on Technology Breakthrough,"new, report, technology, breakthrough, another, plan, nice",REAL
+F247,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, discuss, argue, media, drive, prevent",FAKE
+R179,New Report on Technology Breakthrough,"new, report, technology, breakthrough, explain, back, beyond, before., need",REAL
+F138,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, fear, guess, natural, mind, able",FAKE
+R017,New Report on Policy,"new, report, policy, style, culture, plan, painting, yes, believe",REAL
+F090,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, purpose, become, return, organization, letter.",FAKE
+F222,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, fund, know, great, area.",FAKE
+R114,New Report on Climate Change,"new, report, climate, change, vote, firm, ahead, determine",REAL
+F235,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, well, yes, large, risk, truth",FAKE
+F185,Hoax Confirmed by Sources,"hoax, confirmed, sources, upon, economic, common, memory, minute.",FAKE
+F221,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, day, fast, east, discussion, business",FAKE
+F054,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, thought, want, customer, tough, interesting",FAKE
+R000,New Report on Public Health,"new, report, public, health, treat, dinner, enter, including, describe",REAL
+R178,New Report on Budget Report,"new, report, budget, report, big, pick, region, week, box.",REAL
+F006,Hoax Confirmed by Sources,"hoax, confirmed, sources, action, receive, brother, grow, fire, determine",FAKE
+F174,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, success, local, mind, stage.",FAKE
+R009,New Report on Election,"new, report, election, network, receive, someone., experts, discuss",REAL
+R122,New Report on Economic Growth,"new, report, economic, growth, much, simply, sea, three",REAL
+F189,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, ask, maybe, discuss, challenge, minute",FAKE
+R146,New Report on Technology Breakthrough,"new, report, technology, breakthrough, speak, teacher, behind, must",REAL
+R022,New Report on Climate Change,"new, report, climate, change, manager, land, easy, apply., speak",REAL
+F177,Aliens Confirmed by Sources,"aliens, confirmed, sources, save, fact., brother, pass, beyond",FAKE
+F021,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, report, young, article, expect., industry",FAKE
+R039,New Report on Economic Growth,"new, report, economic, growth, doctor, structure, give, weight, less",REAL
+F061,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, bill, wife, federal, claim.",FAKE
+R057,New Report on Technology Breakthrough,"new, report, technology, breakthrough, wrong, describe, bed, report",REAL
+F154,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, finish, feel, wall, beyond, despite",FAKE
+F052,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, agreement, key, political., find",FAKE
+F124,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, water, board, time, start",FAKE
+R071,New Report on Budget Report,"new, report, budget, report, performance, statement, husband, serve",REAL
+R152,New Report on Budget Report,"new, report, budget, report, evidence, police, network, little, great",REAL
+F038,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, look, song, position, be., answer",FAKE
+F101,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, west, lay, wonder, usually., according",FAKE
+F203,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, market, around, back, million, attention",FAKE
+F192,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, development, suggest, government",FAKE
+R189,New Report on Climate Change,"new, report, climate, change, team, occur, much, far, claim",REAL
+R098,New Report on Election,"new, report, election, region, hold, current, authority, realize.",REAL
+R149,New Report on Economic Growth,"new, report, economic, growth, fast, central, side, exactly.",REAL
+R046,New Report on Education,"new, report, education, attack, stand, national, position, third, life",REAL
+F055,Hoax Confirmed by Sources,"hoax, confirmed, sources, amount, threat, city, task., foreign",FAKE
+F159,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, take, project, fire, apply, movement",FAKE
+F083,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, tonight, human, system, guess., north",FAKE
+R109,New Report on Education,"new, report, education, class, ready, parent, question., audience, ground",REAL
+R102,New Report on Climate Change,"new, report, climate, change, early, begin, process, quickly.",REAL
+R060,New Report on Election,"new, report, election, political, none, describe, indeed., low",REAL
+F085,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, cut, believe, firm, blood",FAKE
+F188,Hoax Confirmed by Sources,"hoax, confirmed, sources, white, exist, walk, hot, read., dark",FAKE
+F131,Hoax Confirmed by Sources,"hoax, confirmed, sources, north, save, skill, attack, change, republican.",FAKE
+R202,New Report on Public Health,"new, report, public, health, capital, want, bad, force, important.",REAL
+F111,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, add, eye, member, eat, wide",FAKE
+R151,New Report on Policy,"new, report, policy, pay, appear, movement, serve, mouth.",REAL
+F058,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, sense, baby, trade, suggest., little",FAKE
+R164,New Report on Education,"new, report, education, rule, especially, consider, place, tree, discussion",REAL
+F242,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, heavy, song, ahead, cover, investment",FAKE
+F064,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, contain, admit, boy., record",FAKE
+R228,New Report on Education,"new, report, education, strong, easy, movement., run, tough",REAL
+R210,New Report on Economic Growth,"new, report, economic, growth, yeah, person, business, sense, people.",REAL
+R156,New Report on Policy,"new, report, policy, back, half., energy, standard",REAL
+R192,New Report on Climate Change,"new, report, climate, change, despite, discuss, girl, without, month",REAL
+F102,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, give, old, true, everything, on.",FAKE
+R237,New Report on Election,"new, report, election, per, parent, tonight, already, deal, one.",REAL
+F015,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, consumer, national, word, design, company",FAKE
+F020,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, hope, marriage, pm, little, light",FAKE
+R083,New Report on Election,"new, report, election, represent, white, bit, ground",REAL
+F035,Hoax Confirmed by Sources,"hoax, confirmed, sources, short, along., least",FAKE
+R082,New Report on Budget Report,"new, report, budget, report, important, shake, resource",REAL
+F114,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, size, magazine, idea., use",FAKE
+F179,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, phone, left, story, produce, play.",FAKE
+F026,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, politics, war, staff, hotel.",FAKE
+R217,New Report on Election,"new, report, election, unit, better, development, paper, right., interest",REAL
+F009,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, huge, indicate, peace, stage, fly",FAKE
+F240,Aliens Confirmed by Sources,"aliens, confirmed, sources, simply, land, tv, remember, live",FAKE
+R216,New Report on Research,"new, report, research, clearly, past, care, behavior, quickly, around",REAL
+F129,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, total, various., learn, really",FAKE
+R197,New Report on Education,"new, report, education, arrive, consumer, gun, system., research, option",REAL
+F142,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, never, floor, test, production., important",FAKE
+R140,New Report on Climate Change,"new, report, climate, change, together, consider, cover, industry, writer.",REAL
+R165,New Report on Budget Report,"new, report, budget, report, statement, exactly, point., experts, discuss",REAL
+R139,New Report on Education,"new, report, education, current, third, learn, hot., experts",REAL
+F232,Hoax Confirmed by Sources,"hoax, confirmed, sources, material, land, knowledge, play, life",FAKE
+F108,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, suggest, hot, everyone.",FAKE
+F167,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, even, body, mr, man",FAKE
+R242,New Report on Research,"new, report, research, home, pattern, base., particular, worker",REAL
+F133,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, choice, month, degree, rise",FAKE
+F025,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, others, civil, door, nearly",FAKE
+F093,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, last, education, democrat, ground",FAKE
+F236,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, environment, produce, generation, tonight",FAKE
+F069,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, born, throughout, manage, local.",FAKE
+F219,Flat Earth Confirmed by Sources,"flat, earth, confirmed, sources, fact, commercial, meet, though",FAKE
+R079,New Report on Election,"new, report, election, sense, mr, under., argue, computer, actually",REAL
+F042,Hoax Confirmed by Sources,"hoax, confirmed, sources, war, military, four, student, energy, material.",FAKE
+R154,New Report on Budget Report,"new, report, budget, report, chair, song, old, check",REAL
+R089,New Report on Public Health,"new, report, public, health, head, public, threat, deal, understand",REAL
+R038,New Report on Public Health,"new, report, public, health, interesting, check, bit, account",REAL
+R053,New Report on Economic Growth,"new, report, economic, growth, pay, cost, reach., century",REAL
+F201,Hoax Confirmed by Sources,"hoax, confirmed, sources, value, per, ground, pass, garden, require.",FAKE
+F013,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, suffer, simply, democratic, pick, today.",FAKE
+R023,New Report on Policy,"new, report, policy, president, clearly, cut, science, husband, energy",REAL
+R068,New Report on Technology Breakthrough,"new, report, technology, breakthrough, ready, surface, black, reduce, start",REAL
+F065,Hoax Confirmed by Sources,"hoax, confirmed, sources, rest, physical, past, thousand, get, actually",FAKE
+F239,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, wind, although, take, focus",FAKE
+F084,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, behind, road, detail, decade",FAKE
+R120,New Report on Election,"new, report, election, culture, manage, rather, stop, dog, imagine.",REAL
+F207,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, language, eye, young, consider, strong",FAKE
+R158,New Report on Economic Growth,"new, report, economic, growth, election, instead, south, section",REAL
+R097,New Report on Technology Breakthrough,"new, report, technology, breakthrough, billion, enjoy, stop, value",REAL
+R092,New Report on Technology Breakthrough,"new, report, technology, breakthrough, anything, politics, this., friend",REAL
+F172,Hoax Confirmed by Sources,"hoax, confirmed, sources, claim, total, well, great, tell, particularly",FAKE
+R182,New Report on Economic Growth,"new, report, economic, growth, case, town, focus, prepare, direction",REAL
+F014,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, modern, church, seem, section, organization",FAKE
+R230,New Report on Election,"new, report, election, table, kid, mouth, child, church",REAL
+F223,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, suffer, bit, pick, sense, quickly",FAKE
+R221,New Report on Policy,"new, report, policy, receive, billion, travel, food., floor",REAL
+R173,New Report on Climate Change,"new, report, climate, change, might, anyone, policy, personal, imagine",REAL
+F249,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, agent, boy, process, anyone., cup",FAKE
+F112,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, start, home., yeah, sport",FAKE
+R058,New Report on Budget Report,"new, report, budget, report, american, decision, low., effect, happy",REAL
+R159,New Report on Economic Growth,"new, report, economic, growth, program, expect, sport",REAL
+R029,New Report on Economic Growth,"new, report, economic, growth, miss, city, tree, option, office",REAL
+R126,New Report on Research,"new, report, research, particular, choice, instead, address, three., add",REAL
+R132,New Report on Education,"new, report, education, prove, spend, able., reason, sea, still",REAL
+R025,New Report on Election,"new, report, election, benefit, trouble, authority, white, name, future",REAL
+F214,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, life, debate.",FAKE
+R177,New Report on Policy,"new, report, policy, garden, play, else., oil, behind, stock.",REAL
+R196,New Report on Budget Report,"new, report, budget, report, dream, case, trade, no., base",REAL
+R135,New Report on Budget Report,"new, report, budget, report, majority, listen, fly, its., public",REAL
+F152,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, two, top, rule, keep.",FAKE
+F180,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, compare, culture, find.",FAKE
+F003,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, tonight, tree, around, sing, campaign",FAKE
+F244,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, every, traditional, speak",FAKE
+F194,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, new, father, hard., water",FAKE
+R044,New Report on Policy,"new, report, policy, talk, season, mention, strategy, adult, kitchen",REAL
+R141,New Report on Economic Growth,"new, report, economic, growth, call, sort, past, science., western",REAL
+R188,New Report on Climate Change,"new, report, climate, change, always, many, third, left, speech.",REAL
+F010,Aliens Confirmed by Sources,"aliens, confirmed, sources, leg, happy, true, factor., turn, look",FAKE
+R106,New Report on Economic Growth,"new, report, economic, growth, big, suffer, heart, list, prove",REAL
+R049,New Report on Research,"new, report, research, discover, manage, security, responsibility, during.",REAL
+R144,New Report on Budget Report,"new, report, budget, report, main, apply, necessary, body",REAL
+F199,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, instead, mission, specific, together",FAKE
+F215,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, foreign, start, drop, wish",FAKE
+R176,New Report on Economic Growth,"new, report, economic, growth, guy, president, action, cut",REAL
+F105,Hoax Confirmed by Sources,"hoax, confirmed, sources, however, none, country., face, offer",FAKE
+F031,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, professional, including, concern, enter, realize",FAKE
+R206,New Report on Research,"new, report, research, long, writer, certain, film, though, red",REAL
+F238,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, read, best, use, ability",FAKE
+R027,New Report on Climate Change,"new, report, climate, change, medical, fill, crime, ready",REAL
+F169,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, issue, mother, coach, girl, speak.",FAKE
+F208,Aliens Confirmed by Sources,"aliens, confirmed, sources, woman, surface, lead, on., truth, notice",FAKE
+F212,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, behind, political, fast, list",FAKE
+F032,Hoax Confirmed by Sources,"hoax, confirmed, sources, decade, teacher, mention, thought, thing, audience.",FAKE
+F109,Hoax Confirmed by Sources,"hoax, confirmed, sources, choose, local, improve, education., technology, race",FAKE
+R111,New Report on Policy,"new, report, policy, test, various, late, drive, college, have.",REAL
+F078,Aliens Confirmed by Sources,"aliens, confirmed, sources, think, fly, agreement, response., imagine, people",FAKE
+R105,New Report on Budget Report,"new, report, budget, report, least, year, clear, nature, section.",REAL
+F196,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, age, attorney, serve, since",FAKE
+F118,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, wish, paper, information, recently",FAKE
+F077,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, financial, future, rate, big.",FAKE
+F070,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, page, oil, perform, meeting, idea",FAKE
+F041,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, sport, stage, apply, size., artist",FAKE
+R026,New Report on Policy,"new, report, policy, less, change, night, available, simply",REAL
+R207,New Report on Policy,"new, report, policy, cultural, growth, large, authority, yard",REAL
+F163,Secret Cure Confirmed by Sources,"secret, cure, confirmed, sources, focus, debate, amount, investment",FAKE
+F171,Government Cover-Up Confirmed by Sources,"government, cover-up, confirmed, sources, weight, continue, official, year, outside.",FAKE
+F139,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, within, bank, particular, send, maybe.",FAKE
+F120,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, newspaper, church, southern, start",FAKE
+F146,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, way, statement, wall, at.",FAKE
+R115,New Report on Research,"new, report, research, push, role, write, exactly, professional, inside",REAL
+F039,Aliens Confirmed by Sources,"aliens, confirmed, sources, state, meet, inside, weight., statement, many",FAKE
+F225,Hoax Confirmed by Sources,"hoax, confirmed, sources, set, interview, else., magazine, community, dream.",FAKE
+F140,Aliens Confirmed by Sources,"aliens, confirmed, sources, technology, reduce, step, food, necessary, read",FAKE
+F122,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, organization, task, take, impact, race",FAKE
+R070,New Report on Budget Report,"new, report, budget, report, particular, strategy, behind, television., dog",REAL
+F248,Celebrity Scandal Confirmed by Sources,"celebrity, scandal, confirmed, sources, lose, course, detail, every",FAKE
+R016,New Report on Technology Breakthrough,"new, report, technology, breakthrough, day, coach, back, capital, agree",REAL
+R148,New Report on Technology Breakthrough,"new, report, technology, breakthrough, moment, system, apply, message, west",REAL
+R142,New Report on Budget Report,"new, report, budget, report, begin, crime, rock, partner.",REAL
+F141,Miracle Drug Confirmed by Sources,"miracle, drug, confirmed, sources, lead, fact, mr",FAKE
+R076,New Report on Technology Breakthrough,"new, report, technology, breakthrough, three, pass, new, reflect., experts",REAL
+R180,New Report on Budget Report,"new, report, budget, report, north, every, energy, want, structure",REAL
+F126,Aliens Confirmed by Sources,"aliens, confirmed, sources, guy, attorney, allow, list, poor., stock",FAKE
+R134,New Report on Economic Growth,"new, report, economic, growth, official, throughout, discussion, president, improve",REAL
+F132,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, citizen, develop, fight, management",FAKE
+F230,Immortal Jellyfish Confirmed by Sources,"immortal, jellyfish, confirmed, sources, mrs, one, indicate, left",FAKE
+F243,Aliens Confirmed by Sources,"aliens, confirmed, sources, plant, hear, section, traditional., set, son",FAKE
+R191,New Report on Budget Report,"new, report, budget, report, week, send, play, white",REAL
+R130,New Report on Public Health,"new, report, public, health, ball, election, commercial, growth",REAL
+F081,Mind Control Confirmed by Sources,"mind, control, confirmed, sources, certain, third, win, parent, weight",FAKE
+R209,New Report on Technology Breakthrough,"new, report, technology, breakthrough, doctor, accept, kind, me.",REAL
+F228,Hoax Confirmed by Sources,"hoax, confirmed, sources, leave, without, field, store.",FAKE
+R030,New Report on Budget Report,"new, report, budget, report, nature, must, stock, buy., hope",REAL
+R214,New Report on Education,"new, report, education, relate, something, represent, take, glass, measure",REAL
+R175,New Report on Economic Growth,"new, report, economic, growth, market, successful, budget, letter., personal",REAL

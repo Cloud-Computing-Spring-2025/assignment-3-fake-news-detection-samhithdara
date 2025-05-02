@@ -1,114 +1,93 @@
 # Assignment-5-FakeNews-Detection
 
-This project builds a **fake news detection pipeline** using PySpark, including data preprocessing, feature extraction, model training, and evaluation.
+This project implements a fake news detection pipeline using **Apache Spark**. It processes a sample dataset, performs text preprocessing, extracts features, trains a logistic regression model, and evaluates its performance.  
 
 ---
 
-### 🔧 Setup
-
-1️.  **Install dependencies**
-```bash
-pip install pyspark
-```
-
-*(Or use a `requirements.txt` with `pyspark` inside.)*
-
-2️.  **Prepare your virtual environment**
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
-3️.  **Place your input file**
-Ensure `fake_news_sample.csv` is in the project directory or use Dataset_Generator for generating data set.
+## 🗂 **Project Structure**
+- **Input file:** `fake_news_sample.csv`
+- **Outputs:**
+  - `task1_output.csv` → Raw data exploration results
+  - `task2_output.csv` → Cleaned + preprocessed text
+  - `task3_output.csv` → Extracted features + indexed labels
+  - `task4_output.csv` → Model predictions on test data
+  - `task5_output.csv` → Evaluation metrics (accuracy, F1 score)
 
 ---
 
-### Tasks Breakdown
+## 🔧 **Pipeline Overview**
 
----
-
-### **Task 1: Load & Basic Exploration**
-
-- **Action:**
-  - Load CSV into a Spark DataFrame.
-  - Explore the first 5 rows.
-  - Count the total number of articles.
-  - Show distinct labels.
-- **Output:**
-  - Writes raw DataFrame to `task1_output.csv`.
+### **Task 1: Load & Explore Data**
+- Load CSV into Spark DataFrame.
+- Show first 5 rows.
+- Count total number of articles.
+- List distinct labels.
+- Save raw data snapshot to `task1_output.csv`.
 
 ---
 
 ### **Task 2: Text Preprocessing**
-
-- **Action:**
-  - Convert article text to lowercase.
-  - Tokenize text into words.
-  - Remove stopwords.
-  - Create a new array column `filtered_words`.
-  - Flatten `filtered_words` into `filtered_words_str` (space-separated string).
-- **Output:**
-  - Writes cleaned data to `task2_output.csv`.
+- Combine `title` + `text` columns into a unified field.
+- Convert combined text to lowercase.
+- Tokenize the text.
+- Limit to **first 10 tokens** to prevent overfitting on long articles.
+- Remove stopwords.
+- Save preprocessed output to `task2_output.csv`.
 
 ---
 
 ### **Task 3: Feature Extraction**
-
-- **Action:**
-  - Use **HashingTF** to convert word arrays to raw feature vectors.
-  - Apply **IDF** to scale features.
-  - Encode labels with `StringIndexer`.
-  - Select only necessary columns.
-- **Output:**
-  - Writes compacted dataset (without complex vector fields) to `task3_output.csv`.
+- Apply `HashingTF` (with 200 features).
+- Apply `IDF` (inverse document frequency).
+- Index string labels to numerical indices.
+- Save final features and labels to `task3_output.csv`.
 
 ---
 
 ### **Task 4: Model Training**
-
-- **Action:**
-  - Split dataset into training (80%) and testing (20%).
-  - Train **Logistic Regression** using `features` and `label_index`.
-  - Generate predictions on test data.
-- **Output:**
-  - Writes predictions (`id`, `label_index`, `prediction`) to `task4_output.csv`.
+- Split dataset into **70% train / 30% test**.
+- Train a logistic regression model with:
+  - `maxIter = 5`
+  - `regParam = 0.3`
+  - `elasticNetParam = 0.5` (mix of L1/L2 regularization).
+- Make predictions on test set.
+- Save predictions to `task4_output.csv`.
 
 ---
 
 ### **Task 5: Model Evaluation**
-
-- **Action:**
-  - Evaluate predictions using **accuracy** and **F1 score** with `MulticlassClassificationEvaluator`.
-  - Display metrics.
-- **Output:**
-  - Writes evaluation metrics to `task5_output.csv`.
+- Compute **Accuracy**.
+- Compute **F1 Score**.
+- Save evaluation metrics to `task5_output.csv`.
 
 ---
 
-### 📂 Output Files
-
-| Task | Output CSV                        |
-|------|-----------------------------------|
-| 1    | `task1_output.csv` (raw data)     |
-| 2    | `task2_output.csv` (cleaned text) |
-| 3    | `task3_output.csv` (features + label) |
-| 4    | `task4_output.csv` (predictions)  |
-| 5    | `task5_output.csv` (accuracy, F1) |
-
----
-
-### 📦 Running the Pipeline
-
-To run everything:
-```bash
-spark-submit spark_ml.py
-```
+##  **How to Run**
+1. Ensure you have:
+   - Python 3.x
+   - Apache Spark + PySpark installed
+2. Place the `fake_news_sample.csv` file in the same directory.
+3. Run:
+   ```bash
+   spark-submit fake_news_detection.py
+   ```
+4. Check the generated output CSV files.
 
 ---
 
-###  Notes
+## 📁 **Outputs Explanation**
+| File                  | Description                                               |
+|-----------------------|-----------------------------------------------------------|
+| `task1_output.csv`    | Raw data with all columns from the original CSV.           |
+| `task2_output.csv`    | Preprocessed and cleaned text after tokenizing + stopword removal. |
+| `task3_output.csv`    | Feature vectors and numerical labels ready for training.  |
+| `task4_output.csv`    | Model predictions on test set (includes predicted labels).|
+| `task5_output.csv`    | Overall accuracy and F1 score of the trained model.       |
 
-- Spark cannot save arrays or vectors directly to CSV — you **must** flatten them into strings.  
-- Always check `.columns` before selecting to avoid `UNRESOLVED_COLUMN` errors.  
-- Use `mode="overwrite"` in `.write.csv()` to avoid folder existence errors.
+---
+
+## 📊 **Model Details**
+- **Model type:** Logistic Regression (multiclass)
+- **Features:** TF-IDF vectors from top 200 hashed terms (after preprocessing)
+- **Evaluation:** Accuracy and F1 score
+
